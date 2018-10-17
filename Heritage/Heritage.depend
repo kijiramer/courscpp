@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1523047834 source:d:\1ère année\poo\heritage\heritage\main.cpp
+	<iostream>
+	"Triangle.h"
+	"Rectangle.h"
+
+1523048714 d:\1ère année\poo\heritage\heritage\triangle.h
+	"Polygone.h"
+
+1523110910 d:\1ère année\poo\heritage\heritage\polygone.h
+	<iostream>
+
+1523037721 d:\1ère année\poo\heritage\heritage\rectangle.h
+	"Polygone.h"
+
+1523037690 source:d:\1ère année\poo\heritage\heritage\polygone.cpp
+	"Polygone.h"
+	<iostream>
+
+1523037713 source:d:\1ère année\poo\heritage\heritage\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1523048072 source:d:\1ère année\poo\heritage\heritage\triangle.cpp
+	"Triangle.h"
+	<iostream>
+

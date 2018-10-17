@@ -17,7 +17,6 @@ int main(){
     int choix, choix2,a,b,c;
     
     do {
-   
     
     	cout << "-------------------MENU---------------------" << endl;
    	 cout << "Que voulez vous étudier?" << endl;
